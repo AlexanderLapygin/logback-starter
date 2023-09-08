@@ -4,20 +4,21 @@
     </a>
 </div> 
 
-# HelloWorld on Java
+UNDER DEVELOPMENT
 
+# Logback starter
 
 ## Feature tags
 - java
+- logback
 - maven
 - starter
 - template
 
 ---
 
-## Direct descendants
-- [+ log4j](https://github.com/AlexanderLapygin/log4j-starter#readme)
-- [+ spring-boot](https://github.com/AlexanderLapygin/spring-boot-helloworld/tree/main#readme)
+## Direct ancestors
+- [- logback](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
 
 ---
 
@@ -29,8 +30,7 @@
 
 ## Requirements
 
-- [Maven](https://maven.apache.org/)
-- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 ---
 
