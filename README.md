@@ -44,10 +44,10 @@ mvnw clean package
 ## Run
 
 ```sh
-java -cp target/hello-world-1.0-SNAPSHOT.jar com.example.App
+java -cp target/logback-1.0.jar com.example.App
 ```
 
-Watch 'Hello World!' in the console.
+Watch log record with 'Hello World!' in the console.
 
 ### License
 
