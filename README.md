@@ -18,6 +18,8 @@
 ## Direct ancestors
 [- logback](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
 
+## Direct descendants
+[+ gelf](https://github.com/AlexanderLapygin/logback-gelf-starter#readme)
 ---
 
 ## Author
