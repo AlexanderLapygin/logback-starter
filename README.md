@@ -4,8 +4,6 @@
     </a>
 </div> 
 
-UNDER DEVELOPMENT
-
 # Logback starter
 
 ## Feature tags
@@ -18,7 +16,7 @@ UNDER DEVELOPMENT
 ---
 
 ## Direct ancestors
-- [- logback](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
+[- logback](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
 
 ---
 
