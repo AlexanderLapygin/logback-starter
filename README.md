@@ -44,7 +44,7 @@ mvnw clean package
 ## Run
 
 ```sh
-java -jar target/logback-1.0.jar
+java -jar target/logback-starter-1.0.jar
 ```
 
 Watch log record with 'Hello World!' in the console.
